@@ -1,0 +1,1 @@
+This folder contains model files generated during the MODFLOW modeling process and will be automatically deleted once the simulation is complete.
