@@ -1,0 +1,9 @@
+smt
+numpy
+flopy
+scipy
+pandas
+gstools
+scikit-learn
+matplotlib
+bayesian-optimization

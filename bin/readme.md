@@ -1,0 +1,1 @@
+This folder is used to store the MODFLOW executable files, which can be downloaded from the [MODFLOW Executables page](https://github.com/MODFLOW-USGS/executables) and configured in this folder.
